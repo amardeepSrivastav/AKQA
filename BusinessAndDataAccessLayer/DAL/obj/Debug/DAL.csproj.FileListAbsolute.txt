@@ -1,0 +1,12 @@
+D:\Practice Projects\BusinessAndDataAccessLayer\DAL\bin\Debug\DAL.dll
+D:\Practice Projects\BusinessAndDataAccessLayer\DAL\bin\Debug\DAL.pdb
+D:\Practice Projects\BusinessAndDataAccessLayer\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Practice Projects\BusinessAndDataAccessLayer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Practice Projects\BusinessAndDataAccessLayer\DAL\obj\Debug\DAL.dll
+D:\Practice Projects\BusinessAndDataAccessLayer\DAL\obj\Debug\DAL.pdb
+F:\Practice Projects\BusinessAndDataAccessLayer\DAL\bin\Debug\DAL.dll
+F:\Practice Projects\BusinessAndDataAccessLayer\DAL\bin\Debug\DAL.pdb
+F:\Practice Projects\BusinessAndDataAccessLayer\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Practice Projects\BusinessAndDataAccessLayer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Practice Projects\BusinessAndDataAccessLayer\DAL\obj\Debug\DAL.dll
+F:\Practice Projects\BusinessAndDataAccessLayer\DAL\obj\Debug\DAL.pdb
